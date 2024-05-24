@@ -1,0 +1,15 @@
+C:\Users\PC\dotNetConsole\bin\Debug\net8.0\dotNetConsole.exe
+C:\Users\PC\dotNetConsole\bin\Debug\net8.0\dotNetConsole.deps.json
+C:\Users\PC\dotNetConsole\bin\Debug\net8.0\dotNetConsole.runtimeconfig.json
+C:\Users\PC\dotNetConsole\bin\Debug\net8.0\dotNetConsole.dll
+C:\Users\PC\dotNetConsole\bin\Debug\net8.0\dotNetConsole.pdb
+C:\Users\PC\dotNetConsole\obj\Debug\net8.0\dotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\dotNetConsole\obj\Debug\net8.0\dotNetConsole.AssemblyInfoInputs.cache
+C:\Users\PC\dotNetConsole\obj\Debug\net8.0\dotNetConsole.AssemblyInfo.cs
+C:\Users\PC\dotNetConsole\obj\Debug\net8.0\dotNetConsole.csproj.CoreCompileInputs.cache
+C:\Users\PC\dotNetConsole\obj\Debug\net8.0\dotNetConsole.sourcelink.json
+C:\Users\PC\dotNetConsole\obj\Debug\net8.0\dotNetConsole.dll
+C:\Users\PC\dotNetConsole\obj\Debug\net8.0\refint\dotNetConsole.dll
+C:\Users\PC\dotNetConsole\obj\Debug\net8.0\dotNetConsole.pdb
+C:\Users\PC\dotNetConsole\obj\Debug\net8.0\dotNetConsole.genruntimeconfig.cache
+C:\Users\PC\dotNetConsole\obj\Debug\net8.0\ref\dotNetConsole.dll
